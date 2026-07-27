@@ -1,6 +1,6 @@
 source_repo   = Vibe-Coding-Team-Study/roguelike
-source_commit = 77ea7e463db9e6ed4aa3d2fa8c17e461fa001ae3
-source_short  = 77ea7e4
+source_commit = e2633157a38c1aaf367eab95a6303ebd95c6e35c
+source_short  = e263315
 godot         = 4.7.stable
 threads       = single (COOP/COEP 헤더 불필요)
 dirty_files   = 0
